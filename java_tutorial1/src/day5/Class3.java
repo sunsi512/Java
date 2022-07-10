@@ -57,7 +57,7 @@ class Human{
 	double 키;
 	
 	void 정보입력(String 이름1, String 성별1, int 나이1, double 키1) {
-		이름 = 이름1;
+		이름 = 이름1;		// this. 을 붙이면 클래스에 있는 걸 사용
 		성별 = 성별1;
 		나이 = 나이1;
 		키 = 키1;
