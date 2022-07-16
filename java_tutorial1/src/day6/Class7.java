@@ -17,7 +17,7 @@ public class Class7 {
 		w.setCountry("캐나다");
 		w.setAge(22);
 		
-		System.out.println(p.getName()+"은 "+p.getCountry()+"에서 온 "+p.getAge()+"살이다.");
+		
 		System.out.println(w.getName()+"는 "+w.getCountry()+"에서 온 "+w.getAge()+"살이다.");		
 		
 	}

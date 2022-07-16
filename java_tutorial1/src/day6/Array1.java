@@ -31,7 +31,7 @@ class Array1Ex{
 		
 		String ss[] = {"a","b","c","d"};
 		int nn[] = {1,2,3,4};
-		double dd[] = {1.0, 2.0, 3.0, 4.0}
+		double dd[] = {1.0, 2.0, 3.0, 4.0};
 		boolean bb[] = {false, true, true,false}; 
 	}
 }

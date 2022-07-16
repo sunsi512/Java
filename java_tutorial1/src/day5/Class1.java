@@ -4,7 +4,7 @@ public class Class1 {
 	// main 함수
 	public static void main(String[] args) {
 		// 더하기 1, 2, 3
-		1+2+3
+//		1+2+3
 		// + : 앞과 뒤 숫자를 더한가 => 3개를 더할 순 없을까? 기호를 추가하지 않고 =>
 		// 너희가 만들어서 써 ->
 	}
