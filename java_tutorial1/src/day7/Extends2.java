@@ -16,7 +16,7 @@ class Human{
 	//public double height;
 	protected String name;
 	
-	public void Info(String name, int age)
+	public void Info() {
 	}
 	
 
