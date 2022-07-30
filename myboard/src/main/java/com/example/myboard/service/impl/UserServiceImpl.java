@@ -25,6 +25,12 @@ public class UserServiceImpl implements UserService{
 		// TODO Auto-generated method stub
 		return user.findAll();			// 상속받은 인터페이스의 함수를 오버라이딩
 	}
+
+	@Override
+	public User getUserById(Long id) {
+		// TODO Auto-generated method stub
+		return user.findById(id).get();
+	}
 	
 	
 	
